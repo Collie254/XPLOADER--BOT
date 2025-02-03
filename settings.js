@@ -32,7 +32,7 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', 
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Colliericch' 
 //Type your name here
 
 //=================================================//
@@ -58,7 +58,7 @@ global.mode = process.env.MODE || 'public';
 // Set to 'private' to enable private mode, otherwise default is 'public'
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🌍'
+global.statusemoji = process.env.STATUS_EMOJI || '👹'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
