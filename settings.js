@@ -58,7 +58,7 @@ global.mode = process.env.MODE || 'public';
 // Set to 'private' to enable private mode, otherwise default is 'public'
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🥵'
+global.statusemoji = process.env.STATUS_EMOJI || '💊'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
