@@ -23,7 +23,7 @@ global.botname = process.env.BOT_NAME || 'CypherX'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '23274448130 
+global.ownernumber = process.env.OWNER_NUMBER || '23274448130' 
 //Type your main number here
 
 //=================================================//
@@ -32,7 +32,7 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', 
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Mr  Take  Tee 
+global.ownername = process.env.OWNER_NAME || 'Mr  Take  Tee'
 //Type your name here
 
 //=================================================//
