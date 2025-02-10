@@ -19,7 +19,7 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT' 
+global.botname = process.env.BOT_NAME || 'COLLIERICCH BOT' 
 //Your desired bot name
 
 //=================================================//
@@ -58,7 +58,7 @@ global.mode = process.env.MODE || 'public';
 // Set to 'private' to enable private mode, otherwise default is 'public'
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🚭'
+global.statusemoji = process.env.STATUS_EMOJI || '⭐'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
