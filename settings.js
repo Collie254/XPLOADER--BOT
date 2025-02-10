@@ -58,7 +58,7 @@ global.mode = process.env.MODE || 'public';
 // Set to 'private' to enable private mode, otherwise default is 'public'
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🧡'
+global.statusemoji = process.env.STATUS_EMOJI || '⭐'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
@@ -66,7 +66,7 @@ global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
 // set true to enable and false to disable auto status view
 
 //=================================================//
-global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'false'
+global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'true'
 // set true to enable and false to disable auto status react
 
 //=================================================//
