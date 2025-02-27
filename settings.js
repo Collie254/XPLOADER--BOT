@@ -23,7 +23,7 @@ global.botname = process.env.BOT_NAME || 'COLLIERICCH BOT'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '254798611895' 
 //Type your main number here
 
 //=================================================//
@@ -58,7 +58,7 @@ global.mode = process.env.MODE || 'public';
 // Set to 'private' to enable private mode, otherwise default is 'public'
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🫂'
+global.statusemoji = process.env.STATUS_EMOJI || '🐯'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
